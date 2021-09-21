@@ -1,6 +1,4 @@
-# Application Name
-
-Calculator App  Flutter
+# Calculator App  Flutter
 ![Artboard – 1@2x](https://user-images.githubusercontent.com/46857727/134216483-5a05365e-7d4f-4151-981b-703079187580.jpg)
 ![Artboard – 2@2x](https://user-images.githubusercontent.com/46857727/134216417-4a25044a-8dda-4ed0-8a5a-5b7cc5e5f785.jpg)
 
